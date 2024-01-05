@@ -1,7 +1,11 @@
 # Hello there !!
+
 _This is my practice page_
+
 **Hope you all are doing well**
+
 ~~lets practice making a website~~
+
 
 _In the canvas of azure high,
 Where dreams and clouds entwine,
